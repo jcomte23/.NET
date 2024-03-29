@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp003_CalculadorNo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp004_ValidadorNumerosPares", "WinFormsApp004_ValidadorNumerosPares\WinFormsApp004_ValidadorNumerosPares.csproj", "{80BC9EE3-132F-45C8-ABE7-33738D4F4742}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp005_CalculadorMesAño", "WinFormsApp005_CalculadorMesAño\WinFormsApp005_CalculadorMesAño.csproj", "{9A20D4ED-27E8-4616-A6BD-D8B541109BD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{80BC9EE3-132F-45C8-ABE7-33738D4F4742}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80BC9EE3-132F-45C8-ABE7-33738D4F4742}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80BC9EE3-132F-45C8-ABE7-33738D4F4742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A20D4ED-27E8-4616-A6BD-D8B541109BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A20D4ED-27E8-4616-A6BD-D8B541109BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A20D4ED-27E8-4616-A6BD-D8B541109BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A20D4ED-27E8-4616-A6BD-D8B541109BD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
