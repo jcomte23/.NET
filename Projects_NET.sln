@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp004_ValidadorNum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp005_CalculadorMesAño", "WinFormsApp005_CalculadorMesAño\WinFormsApp005_CalculadorMesAño.csproj", "{9A20D4ED-27E8-4616-A6BD-D8B541109BD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp006_TablaDeMultiplicar", "WinFormsApp006_TablaDeMultiplicar\WinFormsApp006_TablaDeMultiplicar.csproj", "{4BA1ADEF-3825-4510-8D22-00487E60CF3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9A20D4ED-27E8-4616-A6BD-D8B541109BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A20D4ED-27E8-4616-A6BD-D8B541109BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A20D4ED-27E8-4616-A6BD-D8B541109BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA1ADEF-3825-4510-8D22-00487E60CF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA1ADEF-3825-4510-8D22-00487E60CF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA1ADEF-3825-4510-8D22-00487E60CF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA1ADEF-3825-4510-8D22-00487E60CF3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
