@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp001_HolaMundo", "WinFormsApp001_HolaMundo\WinFormsApp001_HolaMundo.csproj", "{D963C4A9-ACAA-4A63-AB22-A57756CED0F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp002_Saludador", "WinFormsApp002_Saludador\WinFormsApp002_Saludador.csproj", "{B4BFC5A4-A83C-4E78-9B15-3E265A77E455}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp002_Saludador", "WinFormsApp002_Saludador\WinFormsApp002_Saludador.csproj", "{B4BFC5A4-A83C-4E78-9B15-3E265A77E455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp003_CalculadorNotas", "WinFormsApp003_CalculadorNotas\WinFormsApp003_CalculadorNotas.csproj", "{D5A1FB44-348D-4A2C-802D-DCD45287F767}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B4BFC5A4-A83C-4E78-9B15-3E265A77E455}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4BFC5A4-A83C-4E78-9B15-3E265A77E455}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4BFC5A4-A83C-4E78-9B15-3E265A77E455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A1FB44-348D-4A2C-802D-DCD45287F767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A1FB44-348D-4A2C-802D-DCD45287F767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A1FB44-348D-4A2C-802D-DCD45287F767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A1FB44-348D-4A2C-802D-DCD45287F767}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
