@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp001_HolaMundo", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp002_Saludador", "WinFormsApp002_Saludador\WinFormsApp002_Saludador.csproj", "{B4BFC5A4-A83C-4E78-9B15-3E265A77E455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp003_CalculadorNotas", "WinFormsApp003_CalculadorNotas\WinFormsApp003_CalculadorNotas.csproj", "{D5A1FB44-348D-4A2C-802D-DCD45287F767}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp003_CalculadorNotas", "WinFormsApp003_CalculadorNotas\WinFormsApp003_CalculadorNotas.csproj", "{D5A1FB44-348D-4A2C-802D-DCD45287F767}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp004_ValidadorNumerosPares", "WinFormsApp004_ValidadorNumerosPares\WinFormsApp004_ValidadorNumerosPares.csproj", "{80BC9EE3-132F-45C8-ABE7-33738D4F4742}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp004_ValidadorNumerosPares", "WinFormsApp004_ValidadorNumerosPares\WinFormsApp004_ValidadorNumerosPares.csproj", "{80BC9EE3-132F-45C8-ABE7-33738D4F4742}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp005_CalculadorMesAño", "WinFormsApp005_CalculadorMesAño\WinFormsApp005_CalculadorMesAño.csproj", "{9A20D4ED-27E8-4616-A6BD-D8B541109BD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp005_CalculadorMesAño", "WinFormsApp005_CalculadorMesAño\WinFormsApp005_CalculadorMesAño.csproj", "{9A20D4ED-27E8-4616-A6BD-D8B541109BD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp006_TablaDeMultiplicar", "WinFormsApp006_TablaDeMultiplicar\WinFormsApp006_TablaDeMultiplicar.csproj", "{4BA1ADEF-3825-4510-8D22-00487E60CF3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp006_TablaDeMultiplicar", "WinFormsApp006_TablaDeMultiplicar\WinFormsApp006_TablaDeMultiplicar.csproj", "{4BA1ADEF-3825-4510-8D22-00487E60CF3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp007_RepetidorDeMensajes", "WinFormsApp007_RepetidorDeMensajes\WinFormsApp007_RepetidorDeMensajes.csproj", "{F25C9AC7-487B-454C-9862-D4F960CEEAC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{4BA1ADEF-3825-4510-8D22-00487E60CF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BA1ADEF-3825-4510-8D22-00487E60CF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BA1ADEF-3825-4510-8D22-00487E60CF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F25C9AC7-487B-454C-9862-D4F960CEEAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25C9AC7-487B-454C-9862-D4F960CEEAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25C9AC7-487B-454C-9862-D4F960CEEAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25C9AC7-487B-454C-9862-D4F960CEEAC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
