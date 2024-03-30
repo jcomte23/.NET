@@ -15,8 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp005_CalculadorMe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp006_TablaDeMultiplicar", "WinFormsApp006_TablaDeMultiplicar\WinFormsApp006_TablaDeMultiplicar.csproj", "{4BA1ADEF-3825-4510-8D22-00487E60CF3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp007_RepetidorDeMensajes", "WinFormsApp007_RepetidorDeMensajes\WinFormsApp007_RepetidorDeMensajes.csproj", "{F25C9AC7-487B-454C-9862-D4F960CEEAC3}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,10 +45,6 @@ Global
 		{4BA1ADEF-3825-4510-8D22-00487E60CF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BA1ADEF-3825-4510-8D22-00487E60CF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BA1ADEF-3825-4510-8D22-00487E60CF3E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F25C9AC7-487B-454C-9862-D4F960CEEAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F25C9AC7-487B-454C-9862-D4F960CEEAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F25C9AC7-487B-454C-9862-D4F960CEEAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F25C9AC7-487B-454C-9862-D4F960CEEAC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
