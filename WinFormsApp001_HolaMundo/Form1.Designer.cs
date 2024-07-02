@@ -28,14 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             button1 = new Button();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(319, 168);
+            button1.Location = new Point(399, 210);
+            button1.Margin = new Padding(4, 4, 4, 4);
             button1.Name = "button1";
-            button1.Size = new Size(146, 60);
+            button1.Size = new Size(182, 75);
             button1.TabIndex = 0;
             button1.Text = "btnSaludar";
             button1.UseVisualStyleBackColor = true;
@@ -43,11 +45,14 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1000, 562);
             Controls.Add(button1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
+            Margin = new Padding(4, 4, 4, 4);
             Name = "Form1";
+            RightToLeftLayout = true;
             Text = "HolaMundo";
             ResumeLayout(false);
         }

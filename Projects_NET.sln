@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp005_CalculadorMe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp006_TablaDeMultiplicar", "WinFormsApp006_TablaDeMultiplicar\WinFormsApp006_TablaDeMultiplicar.csproj", "{4BA1ADEF-3825-4510-8D22-00487E60CF3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp007_RepetidorDeMensaje", "WinFormsApp007_RepetidorDeMensaje\WinFormsApp007_RepetidorDeMensaje.csproj", "{A5DD10B0-562D-489C-ACD7-5A7BA76AB2BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp007_RepetidorDeMensaje", "WinFormsApp007_RepetidorDeMensaje\WinFormsApp007_RepetidorDeMensaje.csproj", "{A5DD10B0-562D-489C-ACD7-5A7BA76AB2BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
