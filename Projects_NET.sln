@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp006_TablaDeMulti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp007_RepetidorDeMensaje", "WinFormsApp007_RepetidorDeMensaje\WinFormsApp007_RepetidorDeMensaje.csproj", "{A5DD10B0-562D-489C-ACD7-5A7BA76AB2BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp008_BuscadorDeProductos", "WinFormsApp008_BuscadorDeProductos\WinFormsApp008_BuscadorDeProductos.csproj", "{5EB7D23B-59F1-4559-B9DD-E44FAC8338B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A5DD10B0-562D-489C-ACD7-5A7BA76AB2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5DD10B0-562D-489C-ACD7-5A7BA76AB2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5DD10B0-562D-489C-ACD7-5A7BA76AB2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB7D23B-59F1-4559-B9DD-E44FAC8338B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB7D23B-59F1-4559-B9DD-E44FAC8338B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB7D23B-59F1-4559-B9DD-E44FAC8338B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB7D23B-59F1-4559-B9DD-E44FAC8338B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
